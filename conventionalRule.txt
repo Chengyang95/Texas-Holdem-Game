@@ -1,0 +1,11 @@
+initialRange1 0.5 
+initialRange2 0.9 Action Raise 100
+gaussianFactor 1.0
+positionFactor 0.1
+expectedEarnings1 0
+expectedEarnings2 100 Action Raise 50
+
+
+
+ 
+
